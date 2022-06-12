@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="guide">K = Kelvin \nF = Fahrenheit \nC = Celcius \nR = Reamur</string>
+</resources>
